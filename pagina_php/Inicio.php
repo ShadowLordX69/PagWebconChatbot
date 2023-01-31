@@ -27,13 +27,13 @@
     <meta property="og:type" content="website">
   <meta data-intl-tel-input-cdn-path="intlTelInput/"></head>
   <body class="u-body u-xl-mode" data-lang="es"><header class="u-black u-clearfix u-header u-header" id="sec-25b3"><div class="u-clearfix u-sheet u-valign-middle-xs u-sheet-1">
-  <div class="container2" id="chatEmergente" style="margin-left: 1200px;margin-top:580px;">
-      <a href="javascript:abrir()"><img src='images/logoletrablancaainsac.png' class='imgRedonda'/></a>
+  <div class="container2" id="chatEmergente" style="margin-left: 1140px;margin-top:540px;">
+      <a href="javascript:abrir()"><img src='images/imgbot.png' class='imgRedonda'/></a>
   </div>
     <div class="container" id="ventanaChat">
       <div class="chatbox" style="margin-top: 100px;">
         <div class="header" id="cerrar">
-            <h4> <img src='images/logoletrablancaainsac.png' class='imgRedonda'/> ChatBot <a href="javascript:cerrar()"><img src='images/minimizar.png'class='imgRedonda2'></a></h4>         
+            <h4> <img src='images/imgbot2.png' class='imgRedonda1'/> ChatBot <a href="javascript:cerrar()"><img src='images/minimizar.png'class='imgRedonda2'></a></h4>         
         </div>
             <div class="body" id="chatbody">
             <p class="alicia">Hola! soy ChatBot, Estoy para responder preguntas. Espero poder ayudarte.</p>
